@@ -1,2 +1,2 @@
 # next-backend
-just for learning next-laravel-api
+just for learning next-with-laravel-using-api
